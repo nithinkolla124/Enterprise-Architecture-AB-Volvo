@@ -25,13 +25,21 @@ The goal of this project is to demonstrate a deep understanding of Enterprise Ar
 ┣ 📄Week-2_CoreDiagram.pdf
 
 ┣ 📄Week3_BusinessProcessModel.docx.pdf
+
 ┣ 📄Week3_StagesofEnterpriseArchitectureMaturity.docx.pdf
+
 ┣ 📄Week4_Business_model_canvas.pdf
+
 ┣ 📄Week4_outsourcingandLeadershipResearch.pdf
+
 ┣ 📄Week5_Assignment_Togaf.pdf
+
 ┣ 📄Week5_Marketresearch&Journal.pdf
+
 ┣ 📄Week6_ArchimateLayerviewbenefits.pdf
+
 ┣ 📄Week-6_LayerviewArchimate.pdf
+
 ┣ 📄Week_7_Agile, Lean, Collaborative EA.pdf
 
 
