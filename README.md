@@ -17,9 +17,13 @@ The goal of this project is to demonstrate a deep understanding of Enterprise Ar
 ## 📁 Repository Structure
 
 ┣ 📄README.md
+
 ┣ 📄Week2_Assignment_Role&Operatingmodel.pdf
+
 ┣ 📄Week_2Mindmap.pdf
+
 ┣ 📄Week-2_CoreDiagram.pdf
+
 ┣ 📄Week3_BusinessProcessModel.docx.pdf
 ┣ 📄Week3_StagesofEnterpriseArchitectureMaturity.docx.pdf
 ┣ 📄Week4_Business_model_canvas.pdf
