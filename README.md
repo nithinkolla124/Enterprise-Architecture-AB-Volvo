@@ -45,7 +45,6 @@ The goal of this project is to demonstrate a deep understanding of Enterprise Ar
 📌 **This is the link to the final project submission:**  
 👉 [Final Project Files](https://sites.google.com/slu.edu/ab-volvo/home?authuser=4&read_current=1)
 
-> *(Please replace the above link with the actual GitHub repo URL after upload)*
 
 ## 👩‍🏫 Course Details
 
